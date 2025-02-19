@@ -32,8 +32,7 @@ A dynamic Excel dashboard analyzing road accident data with key metrics, trends,
 - **Email**: Contact the creator for feedback.
 
 ## ⚙️ **Installation**
-1. Download the Excel file (`Road_Accident_Dashboard.xlsx`).
-2. Enable macros (if prompted) for interactive features.
+You Can find the excel file and the Dashboard in this link: https://drive.google.com/drive/u/0/folders/1wzNFO0Y-62FHxgYwEtd0vC_FArQT1gw7
 
 ## 📈 **Usage**
 1. Use the **Filter Panel** to refine data by date/area.
